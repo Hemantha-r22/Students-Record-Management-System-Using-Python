@@ -13,4 +13,4 @@ This project is developed using Python to manage student records.
 - Count Students
 
 ## Author
-Hemantha
+Hemantha R
